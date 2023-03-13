@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HealthManagement</string>
+    <string name="history_item">登録 / 履歴</string>
+    <string name="search">Search</string>
+    <string name="search_txt">Search</string>
+    <string name="click">Click</string>
+    <string name="search_text">検索</string>
+    <string name="search_action">Search</string>
+    <string name="back">戻る</string>
+    <string name="register_item">登録</string>
+    <string name="message">日時、食べ物、カロリー\nを登録してね</string>
+    <string name="add">登録</string>
+    <string name="add_food">食べ物名を入力</string>
+    <string name="add_calorie">カロリーを入力してください</string>
+    <string name="foob">食べ物名</string>
+    <string name="calorie">カロリー</string>
+    <string name="cancel">キャンセル</string>
+    <string name="home_back">ホーム</string>
+    <string name="tryining">おすすめ筋トレメニュー</string>
+    <string name="time">時間を入力</string>
+    <string name="Add_time">時間</string>
+    <string name="over">3kmランニング　or　腕立て腹筋</string>
+    <string name="following">　腕立て腹筋 </string>
+    <string name="try2600">腕立て、腹筋250回以上</string>
+    <string name="try3000">ランニングを30分〜1時間ゆっくりなペース or 腕立て、腹筋250回以上</string>
+    <string name="try4000">水泳「クロール」を２時間</string>
+    <string name="avg_kcal">平均摂取カロリーまであと2600</string>
+    <string name="day">日付</string>
+
+</resources>
